@@ -3,7 +3,7 @@ package ALL__Java;
 
 public class Print_Name {
  public static void main(String[] args){
-     String R ="Ahmed Al Rakib";
+     String R ="Shahriar";
      System.out.println(R);
  }   
 }
